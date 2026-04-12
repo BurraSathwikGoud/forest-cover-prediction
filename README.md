@@ -1,3 +1,24 @@
+# 🌲 Forest Cover Prediction using Machine Learning
+
+## 📌 Project Overview
+This project predicts forest cover type using machine learning models based on environmental and geographical features.
+
+## 🚀 Key Result
+- Best Model: XGBoost
+- Accuracy: ~88%
+
+## 📊 Model Comparison Table
+![Comparison Table](images/comparison_table_classification_models.png) 
+
+## 📋 Classification Report
+![Classification Report](images/classification_report_XGBoost.png) 
+
+## 🔍 Confusion Matrix
+![Confusion Matrix](images/Confusion_Matrix_XGBoost.png) 
+
+## 📊 Model Comparison (Bar Chart)
+![Model Comparison](images/Model_accuracies.png)  
+
 ## 🌲 Project Report
 ### 📌 1. Introduction
 
